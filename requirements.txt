@@ -1,0 +1,6 @@
+requests 
+uvicorn
+uuid
+fastapi
+MedoSigner
+pycryptodome
